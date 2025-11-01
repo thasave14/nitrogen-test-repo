@@ -1,0 +1,5 @@
+[repo]
+name = "nitro-test"
+description = "Test repository for Nitrogen"
+maintainer = "Zak <zak@example.com>"
+version = "1.0"

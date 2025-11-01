@@ -1,0 +1,8 @@
+[package]
+name = "hello"
+version = "1.0.0"
+description = "Simple hello world script"
+dependencies = []
+
+[install]
+script = "install.sh"
