@@ -1,0 +1,9 @@
+{
+  "packages": [
+    {
+      "name": "hello",
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/thasave14/nitrogen-test-repo/main/packages/hello"
+    }
+  ]
+}
